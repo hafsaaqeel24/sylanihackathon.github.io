@@ -1,0 +1,75 @@
+
+/* ===navbar starts=== */
+.navright{
+   margin-right: 40px;
+   margin-top: 1px;
+   border-radius: 20px;
+   border-color: white;
+   color: white;
+   background-color: rgb(28, 86, 152);
+}
+.nav-link {
+    color: white;
+    font-weight: bold;
+}
+*{
+   margin: 0px;
+}
+.nav-item{
+    color: white;
+}
+.navbara{
+    margin-top: -10px;
+   
+}
+.container-fluid{
+    background-color: rgb(28, 86, 152);
+}
+/* ===navbar ends=== */
+.banner {
+    background-image: url("../images/bannerimg.jpg");
+    height: 600px;
+  }
+ .bannertext{
+    float: right;
+    padding-right: -5px;
+    padding-top: 90px;
+    
+ } 
+ .a{
+color: white;
+font-weight: 800;
+font-size: 150px;
+ }
+.b{
+color: white;
+font-weight: bolder;
+font-size: 60px;
+}
+.c{
+color: white;
+font-weight: 800;
+font-size: 80px;
+
+}
+.d{
+color: white;  
+font-weight: bolder;  
+}
+/* banner1 starts here  */
+.banner1{
+    background-image: url("../images/banner2.PNG");
+    height: 450px;
+}
+.bannerbtn{
+    float: right;
+    margin-right: 380px;
+    border-radius: 50px;
+    width: 150px;
+    height: 38px;
+    background-color: rgb(10, 48, 95); 
+    color: white;
+    border-color: white;
+    margin-top: 350px;
+}
+/* banner 1 ends here  */
